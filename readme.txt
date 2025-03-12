@@ -1,4 +1,4 @@
-This app contains examples for each condition for:
+This app contains audio examples for each condition for:
 
 Experiment 1: Memory
 Experiment 2: Prediction
